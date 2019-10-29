@@ -1,0 +1,307 @@
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\AForge.Controls.dll
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\AForge.dll
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\AForge.Imaging.dll
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\AForge.Math.dll
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\AForge.Video.dll
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\AForge.xml
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\AForge.Controls.xml
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\AForge.Imaging.xml
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\AForge.Math.xml
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\AForge.Video.xml
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\obj\Debug\VideoWorkDemo.Form1.resources
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\obj\Debug\FaceID.csproj.GenerateResource.cache
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\obj\Debug\FaceID.csproj.CoreCompileInputs.cache
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\obj\Debug\FaceID.csproj.CopyComplete
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\obj\Debug\FaceID.csprojAssemblyReference.cache
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\System.Security.Permissions.dll
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\FaceID.exe.config
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\FaceID.exe.manifest
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\FaceID.application
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\FaceID.exe
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\bin\Debug\FaceID.pdb
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\obj\Debug\FaceID.Properties.Resources.resources
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\obj\Debug\FaceID.exe.manifest
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\obj\Debug\FaceID.application
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\obj\Debug\FaceID.exe
+C:\Users\xkevas\Downloads\VideoWorkDemo-master\VideoWorkDemo\obj\Debug\FaceID.pdb
+J:\FaceID-master\VideoWorkDemo\bin\Debug\FaceID.exe.config
+J:\FaceID-master\VideoWorkDemo\bin\Debug\FaceID.exe.manifest
+J:\FaceID-master\VideoWorkDemo\bin\Debug\FaceID.application
+J:\FaceID-master\VideoWorkDemo\bin\Debug\FaceID.exe
+J:\FaceID-master\VideoWorkDemo\bin\Debug\FaceID.pdb
+J:\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Controls.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\AForge.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Imaging.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Math.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Video.DirectShow.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Video.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\Newtonsoft.Json.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.EventLog.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.AccessControl.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Permissions.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Principal.Windows.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.ServiceProcess.ServiceController.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\AForge.xml
+J:\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Controls.xml
+J:\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Imaging.xml
+J:\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Math.xml
+J:\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Video.xml
+J:\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Video.DirectShow.xml
+J:\FaceID-master\VideoWorkDemo\bin\Debug\Newtonsoft.Json.pdb
+J:\FaceID-master\VideoWorkDemo\bin\Debug\Newtonsoft.Json.xml
+J:\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.csprojAssemblyReference.cache
+J:\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.Properties.Resources.resources
+J:\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.csproj.GenerateResource.cache
+J:\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.csproj.CoreCompileInputs.cache
+J:\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.exe.manifest
+J:\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.application
+J:\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.csproj.CopyComplete
+J:\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.exe
+J:\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.pdb
+J:\FaceID-master\VideoWorkDemo\bin\Debug\Microsoft.Win32.Primitives.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\netstandard.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.AppContext.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Collections.Concurrent.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Collections.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Collections.NonGeneric.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Collections.Specialized.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.ComponentModel.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.ComponentModel.Primitives.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.ComponentModel.TypeConverter.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Console.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Data.Common.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.Contracts.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.Debug.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.Process.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.StackTrace.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.Tools.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.TraceSource.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.Tracing.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Drawing.Primitives.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Dynamic.Runtime.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Globalization.Calendars.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Globalization.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Globalization.Extensions.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.Compression.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.Compression.ZipFile.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.FileSystem.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.FileSystem.Primitives.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.FileSystem.Watcher.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.IsolatedStorage.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.MemoryMappedFiles.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.Pipes.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Linq.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Linq.Expressions.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Linq.Parallel.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Linq.Queryable.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.Http.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.NameResolution.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.NetworkInformation.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.Ping.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.Primitives.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.Requests.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.Security.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.Sockets.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.WebHeaderCollection.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.WebSockets.Client.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.WebSockets.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.ObjectModel.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Reflection.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Reflection.Extensions.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Reflection.Primitives.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Resources.Reader.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Resources.ResourceManager.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Resources.Writer.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Extensions.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Handles.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.InteropServices.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Numerics.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Serialization.Formatters.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Serialization.Json.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Serialization.Primitives.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Serialization.Xml.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Claims.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Cryptography.Csp.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Cryptography.Encoding.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Cryptography.Primitives.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Principal.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.SecureString.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Text.Encoding.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Text.Encoding.Extensions.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Text.RegularExpressions.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.Overlapped.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.Tasks.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.Tasks.Parallel.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.Thread.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.ThreadPool.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.Timer.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.ValueTuple.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Xml.ReaderWriter.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Xml.XDocument.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Xml.XmlDocument.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Xml.XmlSerializer.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Xml.XPath.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Xml.XPath.XDocument.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\Microsoft.Web.Administration.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\Microsoft.Win32.Registry.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Reflection.TypeExtensions.dll
+J:\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+J:\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.exe.config
+J:\FaceID-master\VideoWorkDemo\obj\Debug\VideoWorkDemo.Form1.resources
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\FaceID.exe.config
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\FaceID.exe.manifest
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\FaceID.application
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\FaceID.exe
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\FaceID.pdb
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\netstandard.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.AppContext.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Collections.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Collections.Specialized.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.ComponentModel.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Console.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Data.Common.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Globalization.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.Compression.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.FileSystem.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.Pipes.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Linq.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Linq.Expressions.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Linq.Parallel.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Linq.Queryable.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.Http.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.NameResolution.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.Ping.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.Primitives.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.Requests.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.Security.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.Sockets.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Net.WebSockets.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.ObjectModel.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Reflection.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Resources.Reader.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Resources.Writer.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Handles.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Claims.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Principal.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.SecureString.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Text.Encoding.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.Tasks.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.Thread.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Threading.Timer.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.ValueTuple.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Xml.XDocument.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Xml.XPath.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Controls.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\AForge.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Imaging.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Math.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Video.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Permissions.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\AForge.xml
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Controls.xml
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Imaging.xml
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Math.xml
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Video.xml
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.exe.config
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\obj\Debug\VideoWorkDemo.Form1.resources
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.Properties.Resources.resources
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.csproj.GenerateResource.cache
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.exe.manifest
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.application
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.csproj.CopyComplete
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.exe
+C:\Users\xkeva\Documents\Tencent Files\953091851\FileRecv\FaceID-master\VideoWorkDemo\obj\Debug\FaceID.pdb
